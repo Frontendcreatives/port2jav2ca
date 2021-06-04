@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/port2jav2ca/static/css/main.45c9c66c.chunk.css",
+    "main.js": "/port2jav2ca/static/js/main.a88f7200.chunk.js",
+    "main.js.map": "/port2jav2ca/static/js/main.a88f7200.chunk.js.map",
+    "runtime-main.js": "/port2jav2ca/static/js/runtime-main.c916f4ac.js",
+    "runtime-main.js.map": "/port2jav2ca/static/js/runtime-main.c916f4ac.js.map",
+    "static/js/2.c18a1e0a.chunk.js": "/port2jav2ca/static/js/2.c18a1e0a.chunk.js",
+    "static/js/2.c18a1e0a.chunk.js.map": "/port2jav2ca/static/js/2.c18a1e0a.chunk.js.map",
+    "static/js/3.e4275008.chunk.js": "/port2jav2ca/static/js/3.e4275008.chunk.js",
+    "static/js/3.e4275008.chunk.js.map": "/port2jav2ca/static/js/3.e4275008.chunk.js.map",
+    "index.html": "/port2jav2ca/index.html",
+    "static/css/main.45c9c66c.chunk.css.map": "/port2jav2ca/static/css/main.45c9c66c.chunk.css.map",
+    "static/js/2.c18a1e0a.chunk.js.LICENSE.txt": "/port2jav2ca/static/js/2.c18a1e0a.chunk.js.LICENSE.txt",
+    "static/media/sky.074d1d89.png": "/port2jav2ca/static/media/sky.074d1d89.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c916f4ac.js",
+    "static/js/2.c18a1e0a.chunk.js",
+    "static/css/main.45c9c66c.chunk.css",
+    "static/js/main.a88f7200.chunk.js"
+  ]
+}
