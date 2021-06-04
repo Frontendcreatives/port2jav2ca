@@ -1,0 +1,55 @@
+.App, html {
+   background: $background; 
+   color: $font-dark;
+   text-align: center; 
+}
+
+
+.container{
+padding-bottom: 10vh;
+     
+}
+
+
+.jumbotron{
+    
+  padding:  2vh;
+  color: $font-dark !important;
+ 
+}
+
+
+.row {
+    
+   margin: 10vh!important;
+    
+    
+}
+
+.card{
+  margin-top: 5vh;
+  padding: 4vh;  
+  max-width: 100vw; 
+  text-align: center !important;
+  float: center !important;
+}
+
+.sky{
+    
+ max-width:70vw;   
+    
+}
+
+.btn{
+ margin: 10vh; 
+ background: $btn;
+ border: 5px solid $btn;
+  
+    
+}
+
+.yellow{
+    padding: 4vh;
+    background: lightyellow;
+}
+

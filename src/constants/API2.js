@@ -1,0 +1,1 @@
+export const API2 = "https://www.amiiboapi.com/api/amiibo/?name=mario";
